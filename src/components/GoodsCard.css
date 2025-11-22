@@ -1,0 +1,16 @@
+.goods-card {
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  width: 300px;
+}
+
+.goods-card img {
+  width: 200px;
+  height: 200px;
+}
+
+.goods-card h4 {
+  margin: 5px 0;
+  color: #007bff;
+}

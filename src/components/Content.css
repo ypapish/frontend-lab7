@@ -1,0 +1,23 @@
+.hobbies-title, .first-hobby {
+  cursor: pointer;
+}
+
+.state-1 {
+  background: pink;
+  color: grey;
+}
+
+.state-2 {
+  background: lightblue;
+  color: white;
+}
+
+.first-hobby.state-1 {
+  background: green;
+  color: white;
+}
+
+.first-hobby.state-2 {
+  background: yellow;
+  color: red;
+}
